@@ -1,4 +1,4 @@
-package com.example.servicenowbackend.controllers;
+package com.example.programmeringseksamen.controllers;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

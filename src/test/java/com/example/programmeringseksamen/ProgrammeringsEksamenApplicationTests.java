@@ -1,10 +1,10 @@
-package com.example.servicenowbackend;
+package com.example.programmeringseksamen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceNowBackendApplicationTests {
+class ProgrammeringsEksamenApplicationTests {
 
     @Test
     void contextLoads() {
