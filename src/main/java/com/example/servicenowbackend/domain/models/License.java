@@ -1,4 +1,4 @@
-package com.example.programmeringseksamen.domain.models;
+package com.example.servicenowbackend.domain.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

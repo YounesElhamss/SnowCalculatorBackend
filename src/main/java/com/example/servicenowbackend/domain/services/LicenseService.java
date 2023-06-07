@@ -1,7 +1,7 @@
-package com.example.programmeringseksamen.domain.services;
+package com.example.servicenowbackend.domain.services;
 
-import com.example.programmeringseksamen.domain.models.License;
-import com.example.programmeringseksamen.repositories.LicenseRepository;
+import com.example.servicenowbackend.domain.models.License;
+import com.example.servicenowbackend.repositories.LicenseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

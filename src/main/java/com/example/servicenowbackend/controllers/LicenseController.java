@@ -1,8 +1,8 @@
 
-package com.example.programmeringseksamen.controllers;
+package com.example.servicenowbackend.controllers;
 
-import com.example.programmeringseksamen.domain.models.License;
-import com.example.programmeringseksamen.domain.services.LicenseService;
+import com.example.servicenowbackend.domain.models.License;
+import com.example.servicenowbackend.domain.services.LicenseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

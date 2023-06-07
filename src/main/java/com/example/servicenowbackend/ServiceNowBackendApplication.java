@@ -1,17 +1,14 @@
-package com.example.programmeringseksamen;
+package com.example.servicenowbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @SpringBootApplication
-public class ProgrammeringsEksamenApplication {
+public class ServiceNowBackendApplication {
 
 
     public static void main(String[] args) {
 
-        SpringApplication.run(ProgrammeringsEksamenApplication.class, args);
+        SpringApplication.run(ServiceNowBackendApplication.class, args);
     }
 }
