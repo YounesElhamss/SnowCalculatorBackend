@@ -31,7 +31,6 @@ public class LicenseController {
 
     @GetMapping("/getlicenses")
     public ResponseEntity<List<License>> getLicenses() {
-
         List<License> controllerList = licenseService.getLicenses();
         return new ResponseEntity<>(controllerList, HttpStatus.OK);
     }
